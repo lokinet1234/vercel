@@ -1,9 +1,9 @@
 const hostnamesDB = [
   {
-    name: 'Site 1',
+    name: 'Host',
     description: 'Subdomain + custom domain',
     subdomain: 'subdomain-1',
-    customDomain: 'custom-domain-1.com',
+    customDomain: 'vercellogic.vercel.app',
     // Default subdomain for Preview deployments and for local development
     defaultForPreview: true,
   },
